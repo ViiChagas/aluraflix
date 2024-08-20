@@ -1,5 +1,8 @@
 body {
-    color: white;
-    background: black;
+    color: crimson;
+    background: white;
 
+}
+header{
+    border-bottom: salmon 2px rgb(237, 115, 237);
 }
