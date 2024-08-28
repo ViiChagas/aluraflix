@@ -5,4 +5,14 @@ body {
 }
 header{
     border-bottom: salmon 2px rgb(237, 115, 237);
+padding: 20px;
+font-size: 32px;
 }
+
+section{
+    background: rgb(134 82 197);
+padding-bottom: 80px;
+padding-top: 80px;
+}
+
+
