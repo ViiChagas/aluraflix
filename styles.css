@@ -13,6 +13,7 @@ section{
     background: rgb(134 82 197);
 padding-bottom: 80px;
 padding-top: 80px;
+display: flex;
+justify-content: center;
 }
-
 
